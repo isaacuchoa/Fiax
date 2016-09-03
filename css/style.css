@@ -245,18 +245,18 @@ p.produtos-hm a:hover {
   min-height: 380px; }
 
 .content-box.box-1 .item:hover .item-content {
-  background-color: #0d6791;
-  color: #fff;
+ 
+  color: #000;
   -webkit-transition: all 600ms ease;
   -moz-transition: all 600ms ease;
   -ms-transition: all 600ms ease;
   -o-transition: all 600ms ease;
   transition: all 600ms ease;
-  border: 1px solid #f26324; }
+  }
 
 .content-box.box-1 .item:hover a.btn {
-  border-color: #fff;
-  color: #fff; }
+  border-color: #0d6791;
+  color: #0d6791; }
 
 .content-box.box-2 {
   background: url("../images/bg-2.jpg") fixed 0 0;
@@ -317,8 +317,8 @@ p.produtos-hm a:hover {
 
 .content-box .item .item-content {
   background-color: #fff;
-  padding: 80px;
-  border: 1px solid #0d6791; }
+  padding: 25px;
+  }
 
 .content-box .item span {
   font-size: 15px;
@@ -326,7 +326,7 @@ p.produtos-hm a:hover {
   color: #000; }
 
 .content-box .item:hover .item-content p, .content-box .item:hover .item-content span {
-  color: #fff; }
+  color: #0d6791; }
 
 .content-box .item:hover .zoom-container img {
   -webkit-transform: scale(1.25) rotate(5deg);

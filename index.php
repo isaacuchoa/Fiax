@@ -119,10 +119,10 @@
 								<img src="images/banner-img1.jpg" />
 							</div>
 							<div class="item-content">
-								<span>Desenvolvimento Web</span>
+								<span>Desenvolvimento Web e Mobile</span>
 								<p>Criação e desenvolvimento de websites responsivos com inovação, tecnologia e qualidade. Solicite um orçamento sem compromisso e conheça nossos
 							serviços.</p>
-								<a class="btn" href="#">Veja Mais</a>
+								<a class="btn" href="servicos.php">Veja Mais</a>
 							</div>
 						</div>
 					</div>
@@ -131,12 +131,12 @@
 							<div class="zoom-container">
 								<img src="images/banner-img2.jpg" />
 							</div>
-							<!--<div class="item-content">
+							<div class="item-content">
 								<span>Otimização de Sites</span>
 								<p>Conjunto de estratégias e ferramentas para otimização dos sites. Utilizamos o Search Engine Optimization - SEO, para tornar o site bem posicionado nos mecanismos de
 									busca da Internet.
 								  </p>
-								<a class="btn" href="#">Veja Mais</a>
+								<a class="btn" href="servicos.php">Veja Mais</a>
 							</div>
 						</div>
 					</div>
@@ -144,13 +144,13 @@
 						<div class="wrap-col item">
 							<div class="zoom-container">
 								<img src="images/banner-img3.jpg" />
-							</div>-->
+							</div>
 							<div class="item-content">
 								<span>Sistemas para Internet</span>
 								<p>Análise, desenvolvimento e manutenção de sistemas utilizando tecnologias de ponta. Oferecemos sistemas de
 									qualidade e somos comprometidos com os nossos clientes. 
 								</p>
-								<a class="btn" href="#">Veja Mais</a>
+								<a class="btn" href="servicos.php">Veja Mais</a>
 							</div>
 						</div>
 					</div>
