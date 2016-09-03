@@ -131,7 +131,7 @@
 							<div class="zoom-container">
 								<img src="images/banner-img2.jpg" />
 							</div>
-							<div class="item-content">
+							<!--<div class="item-content">
 								<span>Otimização de Sites</span>
 								<p>Conjunto de estratégias e ferramentas para otimização dos sites. Utilizamos o Search Engine Optimization - SEO, para tornar o site bem posicionado nos mecanismos de
 									busca da Internet.
@@ -144,7 +144,7 @@
 						<div class="wrap-col item">
 							<div class="zoom-container">
 								<img src="images/banner-img3.jpg" />
-							</div>
+							</div>-->
 							<div class="item-content">
 								<span>Sistemas para Internet</span>
 								<p>Análise, desenvolvimento e manutenção de sistemas utilizando tecnologias de ponta. Oferecemos sistemas de
