@@ -49,6 +49,15 @@
 		  });
 		});
 	</script>
+
+	<script type="text/javascript">
+		jQuery(document).ready(function($) { 
+		    $(".scroll").click(function(event){        
+		        event.preventDefault();
+		        $('html,body').animate({scrollTop:$(this.hash).offset().top}, 1400);
+		   });
+		});
+</script>
 	
 	
 	<!--[if lt IE 8]>
@@ -74,7 +83,7 @@
 			<div id="cssmenu">
 				<ul>
 				   <li class='active'><a href="index.php">Home</a></li>
-				   <li><a href="#left-somos">Quem Somos</a></li>
+				   <li><a href="#left-somos" class="scroll">Quem Somos</a></li>
 				   <li><a href="servicos.php">Serviços</a></li>
 				   <li><a href="contato.php">Fale Conosco</a></li>
 				</ul>
@@ -157,7 +166,7 @@
 				</div><!-- END ROW -->
 				<div class="row"><!-- QUEM SOMOS -->
 					<div class="wrap-content">
-						<div class="zoom-container">								
+						<div class="zoom-container1">								
 									<div id="left-somos">
 										<h1>Quem Somos:</h1>
 										<p>
@@ -169,7 +178,7 @@
 										para melhorar a vida das pessoas e promover uma sociedade conectada com a Internet.</p>
 										<br>
 									
-										<p><strong>Nossa Missão:</strong> Prover serviços de internet a todos e ser acessível em todos os lugares. </p>
+										
 										
 									</div>
 							<div id="right-somos"><img src="images/banner2-qs.jpg" alt="banner página quem somos"/></div>								
